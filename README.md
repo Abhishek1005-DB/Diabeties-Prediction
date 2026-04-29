@@ -1,31 +1,24 @@
-# 📊 Netflix Subscription Analysis for Strategy Optimization
+# 📊 Diabeties Prediction
 
 ## 📌 Project Overview  
-This project analyzes Netflix subscription data using Python to uncover insights about user behavior, revenue trends, and retention. The goal is to help improve business strategies through data-driven decision-making.
+Diabetes Prediction project using Python and machine learning to predict the likelihood of diabetes based on health parameters. Performed data preprocessing, feature selection, and model building using libraries like Pandas, NumPy, and Scikit-learn to support early diagnosis and better healthcare decisions.
 
 ---
 
-## 🎯 Objectives  
-- Analyze subscription distribution across plans  
-- Understand revenue patterns  
-- Measure customer retention  
-- Study demographics and device usage  
-- Provide actionable business insights  
+## 🎯 Objectives
+- Build a machine learning model to predict diabetes based on health parameters
+- Analyze key medical factors influencing diabetes risk
+- Perform data preprocessing and handle missing values
+- Improve early detection for better healthcare decisions
 
 ---
 
-## 🔍 Key Analysis  
-
-- Subscription Distribution (Basic, Standard, Premium)  
-- Revenue Analysis (Monthly revenue trends)  
-- Retention Rate (Join Date vs Last Payment Date)  
-- Country-wise User Distribution  
-- Age and Gender Analysis  
-- Device Usage (Mobile, Tablet, Desktop)  
-- Plan Duration Analysis  
-- Correlation between user attributes  
-- Country-wise Revenue Insights  
-- Subscription Trends over time  
+## 🔍 Key Analysis 
+- Data Cleaning: Handle missing and inconsistent values
+- Feature Analysis: Glucose, BMI, Age, Blood Pressure, Insulin
+- Correlation Analysis: Identify relationships between health factors
+- Model Building: Train models like Logistic Regression / Decision Tree
+- Model Evaluation: Check accuracy, precision, recall, confusion matrix
 
 ---
 
@@ -36,33 +29,20 @@ This project analyzes Netflix subscription data using Python to uncover insights
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Jupyter Notebook  
-- Power BI (Optional for dashboard)
+- Jupyter Notebook 
 
 ---
 
-## 📂 Dataset  
+## 📈 Insights & Business Impact
 
-The dataset contains:  
-- User ID  
-- Subscription Type  
-- Monthly Revenue  
-- Join Date  
-- Last Payment Date  
-- Country  
-- Age  
-- Gender  
-- Device  
-- Plan Duration  
+- Identified glucose and BMI as major factors affecting diabetes
+- Helps in early prediction and preventive healthcare
+- Supports doctors in faster decision-making
+- Can be used in healthcare apps for risk assessment
+- Improves patient awareness and reduces long-term treatment costs
 
 ---
 
-## 📈 Insights & Business Impact  
 
-- Helps optimize pricing strategies  
-- Identifies high-value customer segments  
-- Improves retention strategies  
-- Enables targeted marketing campaigns  
-- Supports better user experience based on device usage  
 
 ---
