@@ -17,7 +17,7 @@ Diabetes Prediction project using Python and machine learning to predict the lik
 - Data Cleaning: Handle missing and inconsistent values
 - Feature Analysis: Glucose, BMI, Age, Blood Pressure, Insulin
 - Correlation Analysis: Identify relationships between health factors
-- Model Building: Train models like Logistic Regression / Decision Tree
+- Model Building: Train models like Apply All Algorithm Like Regression, Decision Tree and Random Forest and other
 - Model Evaluation: Check accuracy, precision, recall, confusion matrix
 
 ---
